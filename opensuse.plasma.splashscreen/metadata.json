@@ -1,0 +1,19 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "email@email",
+                "Name": "Serhiy Guryev "
+            }
+        ],
+        "Category": "",
+        "Description": "openSUSE Splash Screen for Plasma 6",
+        "Id": "opensuse.plasma.splashscreen",
+        "License": "GPLv3",
+        "Name": "openSUSE",
+        "Website": "https://github.com/serhiyguryev"
+    },
+    "Keywords": "Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;",
+    "X-Plasma-APIVersion": "2"
+}
