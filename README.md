@@ -8,8 +8,8 @@ https://github.com/serhiyguryev/opensuse-splashscreen/assets/59440343/3139b74b-5
 
 You can download this Splash Screen here:
 
-* KDE Store: [https://store.kde.org/p/2148021](https://store.kde.org/p/2148021)
-* Pling: [https://www.pling.com/p/2148021](https://www.pling.com/p/2148021)
+* KDE Store: [https://store.kde.org/p/2148021](https://store.kde.org/p/2169274)
+* Pling: [https://www.pling.com/p/2148021](https://www.pling.com/p/2169274)
 
 Or you can download source code archive from the [repository view](https://docs.github.com/en/repositories/working-with-files/using-files/downloading-source-code-archives#downloading-source-code-archives-from-the-repository-view)
 
