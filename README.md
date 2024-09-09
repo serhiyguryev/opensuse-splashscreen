@@ -24,6 +24,11 @@ Or you can download source code archive from the [repository view](https://docs.
 
 3. Open `System Settings` and go to `Colours and Themes` -> `Splash Screen`, select `openSUSE`
 
+## You may also like
+
+* A [Plymouth theme](https://github.com/serhiyguryev/plymouth-theme-opensuse) that displays the openSUSE logotype
+* Blueberry: a dark [color scheme](https://github.com/serhiyguryev/blueberry-color-scheme) for the KDE Plasma 5/6 desktop environment
+
 ## Support my work
 
 You can support the further development of this project by choosing a convenient way to donate:
